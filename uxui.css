@@ -73,6 +73,7 @@ button
 textarea
 {
     outline: none;
+    overflow: hidden;
 }
 /* Can't select frame titles and menus */
 .menu ul li,
